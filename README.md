@@ -1,4 +1,4 @@
 # hello-world
 Dieses Repository dient zum Üben des GitHub-Flows.
-Änderung Änderung
-color erkennung hinzugefügt
+Python-Jupyter Beispiele hinzugefügt.
+Farberkenungs Beispiele von der Webseite Yahboom.com
